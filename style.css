@@ -1,0 +1,46 @@
+body{background-color:#000;}
+.logo{ 
+width:1000px;
+height:128px;
+margin:auto;
+}
+.logo_container{ 
+background-image:url('socialrpg.svg');
+background-repeat:no-repeat;
+width:500px;
+height:128px;
+margin: 0 auto;
+}
+h1{color:#fff;font-size:3em!important;}
+.logo_text{float:left;margin-left:20px;margin: 0 auto;margin-left:150px!important;}
+
+#main{margin-top:30px;}
+
+nav{
+width:500px;
+height:300px;
+border:1px solid #fff;
+margin:auto;
+}
+
+nav li{
+
+border-radius:10px;
+border:1px solid #fff;
+height:50px;
+padding:10px;
+margin:20px;
+
+}
+
+.menu{padding:0!important;margin-top:50px;}
+.menu li { padding: 0px; }
+.menu li a { margin: 0px; display: block; width: 100%; height: 100%; text-align:center;line-height:2.5;color:#fff;font-size:20px;text-decoration:none!important;}
+.menu li a:hover{color:#ff0000;}
+
+.fontent{
+width:1000px;
+margin:auto;
+color:#fff!important;
+text-align:center;
+}
